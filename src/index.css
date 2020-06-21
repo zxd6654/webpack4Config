@@ -1,0 +1,13 @@
+@import './a.css';
+
+body {
+    background: red;
+    /* transform: translate(50px); */
+}
+
+div {
+    width: 700px;
+    height: 400px;
+    background: url('./maxresdefault.jpg') no-repeat;
+    background-size: contain;
+}
